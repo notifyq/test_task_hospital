@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\helpers\\sorthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:helpers\\sorthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\dto\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:dto\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\dto\\doctor\\doctorlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:dto\\doctor\\doctorlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\dto\\patient\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:dto\\patient\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\dto\\patient\\patientlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:dto\\patient\\patientlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\testtaskhospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\testtaskhospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\model\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:model\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\web_api_hospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD963551-B462-4614-9029-5C2D82596DFA}|web_api_hospital.csproj|solutionrelative:web_api_hospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Helpers\\SortHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\SortHelper.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Helpers\\SortHelper.cs",
+              "RelativeToolTip": "Helpers\\SortHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:20:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAuwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:41:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\patient\\PatientDto.cs",
+              "RelativeDocumentMoniker": "DTO\\patient\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\patient\\PatientDto.cs",
+              "RelativeToolTip": "DTO\\patient\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:40:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorListDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\doctor\\DoctorListDto.cs",
+              "RelativeDocumentMoniker": "DTO\\doctor\\DoctorListDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\doctor\\DoctorListDto.cs",
+              "RelativeToolTip": "DTO\\doctor\\DoctorListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:39:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:41:29.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\doctor\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "DTO\\doctor\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\doctor\\DoctorDto.cs",
+              "RelativeToolTip": "DTO\\doctor\\DoctorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:40:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientListDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\patient\\PatientListDto.cs",
+              "RelativeDocumentMoniker": "DTO\\patient\\PatientListDto.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\DTO\\patient\\PatientListDto.cs",
+              "RelativeToolTip": "DTO\\patient\\PatientListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:40:21.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Specialization.cs",
+              "RelativeDocumentMoniker": "Model\\Specialization.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Specialization.cs",
+              "RelativeToolTip": "Model\\Specialization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:51:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Plot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Plot.cs",
+              "RelativeDocumentMoniker": "Model\\Plot.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Plot.cs",
+              "RelativeToolTip": "Model\\Plot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:51:09.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Patient.cs",
+              "RelativeDocumentMoniker": "Model\\Patient.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Patient.cs",
+              "RelativeToolTip": "Model\\Patient.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:51:02.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Doctor.cs",
+              "RelativeDocumentMoniker": "Model\\Doctor.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Doctor.cs",
+              "RelativeToolTip": "Model\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:38:38.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:41:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:38:32.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestTaskHospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\TestTaskHospitalContext.cs",
+              "RelativeDocumentMoniker": "Model\\TestTaskHospitalContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\TestTaskHospitalContext.cs",
+              "RelativeToolTip": "Model\\TestTaskHospitalContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:36:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Office.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Office.cs",
+              "RelativeDocumentMoniker": "Model\\Office.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\Model\\Office.cs",
+              "RelativeToolTip": "Model\\Office.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:38:43.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:46:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "web_api_hospital.http",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\web_api_hospital.http",
+              "RelativeDocumentMoniker": "web_api_hospital.http",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\web_api_hospital\\web_api_hospital.http",
+              "RelativeToolTip": "web_api_hospital.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-02T12:31:38.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

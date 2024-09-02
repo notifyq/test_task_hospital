@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rozCCdGYeIA2qKUQbzaE0UDltqIKaQ2+oEBgpnG6iFs=",
+  "Source": "web_api_hospital",
+  "BasePath": "_content/web_api_hospital",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
